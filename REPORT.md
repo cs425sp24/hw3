@@ -24,9 +24,9 @@
 
 > **Guideline:** Provide examples of how caching is used in modern software systems. Discuss the various layers of technology stacks where caching finds its use. *[Limit to 3-4 bullet points]*
 
-## Caching Terminologies and Their Significance
+## Caching Terminologies
 
-> **Guideline:** In this section, you will define and discuss the significance of common caching terms such as cache hit, cache miss, cache hit ratio, TTL, and cache coherence. For each term, provide a brief explanation and an example to illustrate its significance. *[Limit to 1-2 short paragraphs per term]*
+> **Guideline:** In this section, you will define and discuss common caching terms such as cache hit, cache miss, cache hit ratio, TTL, and cache coherence. For each term, provide a brief explanation and an example to illustrate its significance. *[Limit to 1-2 short paragraphs per term]*
 
 ### Cache Hit
 
